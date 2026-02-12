@@ -9,12 +9,12 @@ Now you are ready to go.
 
 In you main/execution notebook, you need to add a first cell:
 
-  %run modules_helper
+    %run modules_helper
 
 In a second cell you can import your utility notebook like so:
 
-  refresh_modules()
-  import utility
+    refresh_modules()
+    import utility
 
 
 
