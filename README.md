@@ -1,5 +1,7 @@
 # ms_fabric_python_module_manager
+
 This is a work-around solution to import python notebooks like python modules.
+For more explanations check out my youtube video: https://www.youtube.com/watch?v=SqblTj7_zj8
 
 # Quickstart
 
